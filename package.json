@@ -1,0 +1,26 @@
+{
+  "name": "hex-to-file",
+  "version": "1.0.0",
+  "description": "Write hex string to file",
+  "main": "index.js",
+  "bin": {
+    "hex-to-file": "bin.js"
+  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jonahss/hex-to-file.git"
+  },
+  "keywords": [
+    "hex",
+    "file"
+  ],
+  "author": "Jonah Stiennon <jonahss@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonahss/hex-to-file/issues"
+  },
+  "homepage": "https://github.com/Jonahss/hex-to-file"
+}
