@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 var hex_to_file = require('./index.js')
 
 if (process.argv.length < 4) {
